@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Mens Tank #1",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/tank1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Mens Tank #2",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/tank2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Womens Outfit #1",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/lady1.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Womens Leggings #1",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./images/lady2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Mens Tank #1",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./images/tank2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Mens Tank #2",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/tank1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Womens Leggings #1",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./images/lady2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Womens Outfit #1",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./images/lady1.png" } } }
+        }
+      }
+    ]
+  }
